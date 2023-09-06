@@ -4,7 +4,8 @@
 ## Description
 10.1 Hours -Chinese Mandarin Synthesis Corpus-Female, Customer Service, It is recorded by Chinese native speakers, with lively and frindly voice. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://bit.ly/3CbIF0A
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1149?source=Github
+
 
 ## Format
 48,000Hz, 16bit, uncompressed wav, mono channel;
